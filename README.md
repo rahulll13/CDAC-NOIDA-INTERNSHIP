@@ -4,7 +4,7 @@ This project aims to thoroughly investigate the ways in which phishing attacks e
 
 # 💡Project overview
 
-This Project was developed as a part of the IBM (AICTE) Internship on AI and Cloud by Edunet Foundation. Using IBM's AI tools and effective machine learning models, The Power system Fault detection system simulates a real-time and effective prediction of the fault based on the previous records of data provided.
+This project focuses on acquiring in-depth knowledge of the various techniques used by cybercriminals to conduct phishing attacks. By dissecting how phishing messages are crafted attachments, and image-based content—the study aims to understand the underlying mechanics of these tactics. This comprehensive analysis will reveal how these techniques are designed to deceive recipients and evade detection by spam filters. Understanding the intricacies of phishing methods enables security professionals develop more effective countermeasures, and stay ahead of cybercriminals who continually refine their approaches.  
 
 # 🛠️ Technologies Used
 
