@@ -8,7 +8,8 @@ This project focuses on acquiring in-depth knowledge of the various techniques u
 
 # 🛠️ Technologies Used To Overcome these Spams
 
-💠 Phishing Tank.org  - PhishingTank.org is an online platform designed to educate users, cybersecurity professionals, and organizations about phishing threats through interactive simulations and real-world examples. It provides a comprehensive database of phishing examples, tools for analysing phishing techniques, and resources to help users recognize and prevent phishing attacks.                                                                                     
+💠 Phishing Tank.org  - PhishingTank.org is an online platform designed to educate users, cybersecurity professionals, and organizations about phishing threats through interactive simulations and real-world examples. It provides a comprehensive database of phishing examples, tools for analysing phishing techniques, and resources to help users recognize and prevent phishing attacks. 
+
 💠 Open Web Application Security Project (OWASP) - OWASP is a globally recognized nonprofit organization dedicated to improving the security of software applications. It provides a wide range of free and open-source resources, including tools, documentation, guidelines, and best practices, to help developers, security professionals, and organizations identify and mitigate security vulnerabilities in web applications.
 
 💠 OWASP ZAP (Zed Attack Proxy) - OWASP ZAP is an open-source security testing tool designed to help find vulnerabilities in web applications during development and testing phases. Its primary purpose is to identify security flaws like SQL injection, Cross-Site Scripting (XSS), and other common web vulnerabilities, enabling organizations to strengthen their applications against potential threats. Hence, it becomes one of the most important open-source tools for web applications security testing.       
@@ -31,8 +32,11 @@ This project focuses on acquiring in-depth knowledge of the various techniques u
 
 💠 Improved Detection - A critical aspect of the project involves identifying the vulnerabilities and weaknesses in existing spam detection systems. This entails scrutinizing current technologies—such as keyword filtering, reputation scoring, machine learning models, and heuristic analysis—and understanding how cybercriminals exploit these systems to bypass security. By developing and testing theseimprovements, the goal is to create more resilient and intelligent email security systems capable of accurately detecting and blocking even the most sophisticated phishing campaigns
 
+💠Awareness for Users & Organizations - “Building awareness is essential for preventing successful phishing attacks”. This part of the project aims to develop practical, user-friendly strategies to educate individuals and organizations about the nature of phishing threats. This includes designing targeted training programs, awareness campaigns, and clear guidelines on recognizing suspicious emails. By fostering a culture of vigilance and proactive security measures, organizations can significantly reduce their vulnerability to phishing attacks and enhance their overall cybersecurity posture. 
+
 # 🪪 License
-This Project is created for academic and internship learning purposes under the IBM (AICTE) Internship on AI and Cloud program by EDUNET FOUNDATION.
+
+This Project is created for academic and internship learning purposes under the CDAC-NOIDA "Ethical Hacking And Penetration Testing" Internship.
 
 Developed by RAHUL KUMAR SINHA
-IBM (AICTE) INTERNSHIP ON AI AND CLOUD (AUGUST 2025)
+Ethical Hacking And Penetration Testing (AUGUST 2025)
