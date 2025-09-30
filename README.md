@@ -1,6 +1,6 @@
 # ⚡Analyzing phishing Techniques that bypasses spam detection system
 
-Power System Fault Detection System is a Machine Learning project that provides the expected fault occured based on the given inputes, it is build as an assingnment for IBM (AICTE) Internship using IBM Watsonx.ai studio for runtime services and IBM Cloud for storage, it delivers friendly, real-time prediction through natural language.
+This project aims to thoroughly investigate the ways in which phishing attacks evade spam detection filters, a critical challenge in maintaining email security. Despite the advancements in spam detection technologies, attackers continually adapt their techniques to bypass these defences, making it essential to understand their methods and limitations.   
 
 # 💡Project overview
 
